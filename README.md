@@ -1,2 +1,1 @@
-#jaing0926.github.io
-C111181112姜佳宏
+jaing0926.github.io
